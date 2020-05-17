@@ -41,6 +41,7 @@ public class TC_LoginTest_001 extends BaseClass
 		}
 		System.out.println("Test added for github");
 		System.out.println("Test2 for branch2");
+		System.out.println("Test for branchz");
 	
 		
 	}
