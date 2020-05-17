@@ -39,6 +39,7 @@ public class TC_LoginTest_001 extends BaseClass
 			Assert.assertTrue(false);
 			logger.info("Login test failed");
 		}
+		System.out.println("Test added for github");
 		
 	}
 }
