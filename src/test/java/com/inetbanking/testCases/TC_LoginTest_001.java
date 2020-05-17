@@ -40,6 +40,7 @@ public class TC_LoginTest_001 extends BaseClass
 			logger.info("Login test failed");
 		}
 		System.out.println("Test added for github");
+		System.out.println("Test2 for github");
 		
 	}
 }
